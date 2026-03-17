@@ -17,8 +17,8 @@ public class TestApp {
 				while(true) {
 					System.out.println();
 					System.out.println("====Crud app menu====");
-					System.out.println("1. Insert in Table");
-					System.out.println("2. Read Table");
+					System.out.println("1. Add Students Data");
+					System.out.println("2. View Student Data");
 					System.out.println("3. Update Data");
 					System.out.println("4. Delete Data");
 					System.out.println("5. Exit");
